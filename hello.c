@@ -8,5 +8,7 @@ int main()
 
     printf("Welcome Github\n");
 
+    printf("hi\n");
+
     return 0;
 }
