@@ -9,6 +9,8 @@ int main()
     printf("Welcome Github\n");
 
     printf("hi\n");
+    printf("I love Sourav Biswas\n");
+    printf("I am a CSE student\n");
 
     return 0;
 }
